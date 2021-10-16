@@ -1,4 +1,4 @@
-# messenger-rachel-song-spam
+# messenger-footloose-song-spam
 
 spam your friend in messenger with this simple script, just fill in the variables inside with your account and the name of the person you want to spam
 
